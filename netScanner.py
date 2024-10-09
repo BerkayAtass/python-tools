@@ -1,4 +1,4 @@
-#example use :sudo PYTHONPATH=$PYTHONPATH:/home/kali/.local/lib/python3.11/site-packages python3 netScanner.py -i 172.17.240.0/24
+#example use: sudo PYTHONPATH=$PYTHONPATH:/home/kali/.local/lib/python3.11/site-packages python3 netScanner.py -i 10.11.110.0/24
 
 import scapy.all as scapy
 import optparse
